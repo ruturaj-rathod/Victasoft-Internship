@@ -1,0 +1,3 @@
+"hello hona bajjor, hua" 
+
+//echo "hello hona bajjor, hua" > greetings.txt
